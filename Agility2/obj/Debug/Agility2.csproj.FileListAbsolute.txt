@@ -1,0 +1,12 @@
+C:\Users\Kamil\Documents\Visual Studio 2017\Projects\HTML Agility Pack\Agility2\Agility2\bin\Debug\Agility2.exe.config
+C:\Users\Kamil\Documents\Visual Studio 2017\Projects\HTML Agility Pack\Agility2\Agility2\bin\Debug\Agility2.exe
+C:\Users\Kamil\Documents\Visual Studio 2017\Projects\HTML Agility Pack\Agility2\Agility2\bin\Debug\Agility2.pdb
+C:\Users\Kamil\Documents\Visual Studio 2017\Projects\HTML Agility Pack\Agility2\Agility2\obj\Debug\Agility2.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Documents\Visual Studio 2017\Projects\HTML Agility Pack\Agility2\Agility2\obj\Debug\Agility2.Form1.resources
+C:\Users\Kamil\Documents\Visual Studio 2017\Projects\HTML Agility Pack\Agility2\Agility2\obj\Debug\Agility2.Properties.Resources.resources
+C:\Users\Kamil\Documents\Visual Studio 2017\Projects\HTML Agility Pack\Agility2\Agility2\obj\Debug\Agility2.csproj.GenerateResource.Cache
+C:\Users\Kamil\Documents\Visual Studio 2017\Projects\HTML Agility Pack\Agility2\Agility2\obj\Debug\Agility2.exe
+C:\Users\Kamil\Documents\Visual Studio 2017\Projects\HTML Agility Pack\Agility2\Agility2\obj\Debug\Agility2.pdb
+C:\Users\Kamil\Documents\Visual Studio 2017\Projects\HTML Agility Pack\Agility2\Agility2\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Kamil\Documents\Visual Studio 2017\Projects\HTML Agility Pack\Agility2\Agility2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Kamil\Documents\Visual Studio 2017\Projects\HTML Agility Pack\Agility2\Agility2\bin\Debug\HtmlAgilityPack.xml
